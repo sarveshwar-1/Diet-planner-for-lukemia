@@ -7,6 +7,7 @@ The program Features:
 <li>Secure and reliable - to be filled
   
 ## Flow Chart of project
-![image](https://github.com/user-attachments/assets/19ae1add-2bf5-4a9d-a241-378edb479a38)
+![image](https://github.com/user-attachments/assets/65f6234e-8dec-480c-bd84-ede268d97bac)
+
 
 # NEED PROPER DOCUMENTATION BEFORE THE LAST SUBMISSION
